@@ -1,0 +1,154 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-style: normal;
+  src: url('http://fonts.gstatic.com/s/montserrat/v7/IQHow_FEYlDC4Gzy_m8fcmzklk6MJbhg7BmBP42CjCQ.eot');
+  src: url('http://fonts.gstatic.com/s/montserrat/v7/IQHow_FEYlDC4Gzy_m8fcmzklk6MJbhg7BmBP42CjCQ.eot?#iefix') format('embedded-opentype'),
+       local('Montserrat-Bold'),
+       local('Montserrat-700'),
+       url('http://fonts.gstatic.com/s/montserrat/v7/IQHow_FEYlDC4Gzy_m8fcmaVI6zN22yiurzcBKxPjFE.woff2') format('woff2'),
+       url('http://fonts.gstatic.com/s/montserrat/v7/IQHow_FEYlDC4Gzy_m8fcnbFhgvWbfSbdVg11QabG8w.woff') format('woff'),
+       url('http://fonts.gstatic.com/s/montserrat/v7/IQHow_FEYlDC4Gzy_m8fcvEr6Hm6RMS0v1dtXsGir4g.ttf') format('truetype'),
+       url('http://fonts.gstatic.com/l/font?kit=IQHow_FEYlDC4Gzy_m8fcj9QLNJZUvW8xv4RpDkyVDQ&skey=11a939c399e8c9fe&v=v7#Montserrat') format('svg');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-style: normal;
+  src: url('http://fonts.gstatic.com/s/montserrat/v7/zhcz-_WihjSQC0oHJ9TCYFQlYEbsez9cZjKsNMjLOwM.eot');
+  src: url('http://fonts.gstatic.com/s/montserrat/v7/zhcz-_WihjSQC0oHJ9TCYFQlYEbsez9cZjKsNMjLOwM.eot?#iefix') format('embedded-opentype'),
+       local('Montserrat-Regular'),
+       local('Montserrat-regular'),
+       url('http://fonts.gstatic.com/s/montserrat/v7/zhcz-_WihjSQC0oHJ9TCYAzyDMXhdD8sAj6OAJTFsBI.woff2') format('woff2'),
+       url('http://fonts.gstatic.com/s/montserrat/v7/zhcz-_WihjSQC0oHJ9TCYL3hpw3pgy2gAi-Ip7WPMi0.woff') format('woff'),
+       url('http://fonts.gstatic.com/s/montserrat/v7/zhcz-_WihjSQC0oHJ9TCYC3USBnSvpkopQaUR-2r7iU.ttf') format('truetype'),
+       url('http://fonts.gstatic.com/l/font?kit=zhcz-_WihjSQC0oHJ9TCYKWUboTb-jS2tyCOQMtm97g&skey=7bc19f711c0de8f&v=v7#Montserrat') format('svg');
+}
+
+@font-face {
+  font-family: 'Kaushan Script';
+  font-weight: 400;
+  font-style: normal;
+  src: url('http://fonts.gstatic.com/s/kaushanscript/v5/qx1LSqts-NtiKcLw4N03IGrfpCc_r9-5ZnZPBmoO4Sk.eot');
+  src: url('http://fonts.gstatic.com/s/kaushanscript/v5/qx1LSqts-NtiKcLw4N03IGrfpCc_r9-5ZnZPBmoO4Sk.eot?#iefix') format('embedded-opentype'),
+       local('Kaushan Script'),
+       local('Kaushan-Script-regular'),
+       url('http://fonts.gstatic.com/s/kaushanscript/v5/qx1LSqts-NtiKcLw4N03IJsM3FTMmj2kTPH3yX99Yaw.woff2') format('woff2'),
+       url('http://fonts.gstatic.com/s/kaushanscript/v5/qx1LSqts-NtiKcLw4N03ILDH3ri20rYH10B2w3wbVeU.woff') format('woff'),
+       url('http://fonts.gstatic.com/s/kaushanscript/v5/qx1LSqts-NtiKcLw4N03IC5FJMZltoAAwO2fP7iHu2o.ttf') format('truetype'),
+       url('http://fonts.gstatic.com/l/font?kit=qx1LSqts-NtiKcLw4N03IGNb_15wyZifjqRY11zN25A&skey=31e8905c8b129a4e&v=v5#KaushanScript') format('svg');
+}
+
+@font-face {
+  font-family: 'Droid Serif';
+  font-weight: 400;
+  font-style: normal;
+  src: url('http://fonts.gstatic.com/s/droidserif/v6/0AKsP294HTD-nvJgucYTaGfQcKutQXcIrRfyR5jdjY8.eot');
+  src: url('http://fonts.gstatic.com/s/droidserif/v6/0AKsP294HTD-nvJgucYTaGfQcKutQXcIrRfyR5jdjY8.eot?#iefix') format('embedded-opentype'),
+       local('Droid Serif'),
+       local('Droid-Serif-regular'),
+       url('http://fonts.gstatic.com/s/droidserif/v6/0AKsP294HTD-nvJgucYTaIgp9Q8gbYrhqGlRav_IXfk.woff2') format('woff2'),
+       url('http://fonts.gstatic.com/s/droidserif/v6/0AKsP294HTD-nvJgucYTaLrIa-7acMAeDBVuclsi6Gc.woff') format('woff'),
+       url('http://fonts.gstatic.com/s/droidserif/v6/0AKsP294HTD-nvJgucYTaJ0EAVxt0G0biEntp43Qt6E.ttf') format('truetype'),
+       url('http://fonts.gstatic.com/l/font?kit=0AKsP294HTD-nvJgucYTaHNsigHlcrQGNV8nkUSFQfc&skey=a46d7e8bf49adcd6&v=v6#DroidSerif') format('svg');
+}
+
+@font-face {
+  font-family: 'Droid Serif';
+  font-weight: 700;
+  font-style: normal;
+  src: url('http://fonts.gstatic.com/s/droidserif/v6/QQt14e8dY39u-eYBZmppwbFt29aCHKT7otDW9l62Aag.eot');
+  src: url('http://fonts.gstatic.com/s/droidserif/v6/QQt14e8dY39u-eYBZmppwbFt29aCHKT7otDW9l62Aag.eot?#iefix') format('embedded-opentype'),
+       local('Droid Serif Bold'),
+       local('Droid-Serif-700'),
+       url('http://fonts.gstatic.com/s/droidserif/v6/QQt14e8dY39u-eYBZmppwf79_ZuUxCigM2DespTnFaw.woff2') format('woff2'),
+       url('http://fonts.gstatic.com/s/droidserif/v6/QQt14e8dY39u-eYBZmppwRbnBKKEOwRKgsHDreGcocg.woff') format('woff'),
+       url('http://fonts.gstatic.com/s/droidserif/v6/QQt14e8dY39u-eYBZmppwZ_TkvowlIOtbR7ePgFOpF4.ttf') format('truetype'),
+       url('http://fonts.gstatic.com/l/font?kit=QQt14e8dY39u-eYBZmppwXtNmQEE9wZ6UZlmiISB1pg&skey=e8de471aca8a4d53&v=v6#DroidSerif') format('svg');
+}
+
+@font-face {
+  font-family: 'Droid Serif';
+  font-weight: 700;
+  font-style: italic;
+  src: url('http://fonts.gstatic.com/s/droidserif/v6/c92rD_x0V1LslSFt3-QEptmkQI_kos-lIOeNt19QAas.eot');
+  src: url('http://fonts.gstatic.com/s/droidserif/v6/c92rD_x0V1LslSFt3-QEptmkQI_kos-lIOeNt19QAas.eot?#iefix') format('embedded-opentype'),
+       local('Droid Serif Bold Italic'),
+       local('Droid-Serif-700italic'),
+       url('http://fonts.gstatic.com/s/droidserif/v6/c92rD_x0V1LslSFt3-QEpsyRwA4nzNmLFN68bwzDkMk.woff2') format('woff2'),
+       url('http://fonts.gstatic.com/s/droidserif/v6/c92rD_x0V1LslSFt3-QEpiHgNb6vKVPdRA9LSAKGxzw.woff') format('woff'),
+       url('http://fonts.gstatic.com/s/droidserif/v6/c92rD_x0V1LslSFt3-QEpmsGzsqhEorxQDpu60nfWEc.ttf') format('truetype'),
+       url('http://fonts.gstatic.com/l/font?kit=c92rD_x0V1LslSFt3-QEpvXRuyUpAA8tGJEYgFPFMx8&skey=2409cd7cfd68ebd3&v=v6#DroidSerif') format('svg');
+}
+
+@font-face {
+  font-family: 'Droid Serif';
+  font-weight: 400;
+  font-style: italic;
+  src: url('http://fonts.gstatic.com/s/droidserif/v6/cj2hUnSRBhwmSPr9kS5896SxSvC1lIsK_unZDHWqTBg.eot');
+  src: url('http://fonts.gstatic.com/s/droidserif/v6/cj2hUnSRBhwmSPr9kS5896SxSvC1lIsK_unZDHWqTBg.eot?#iefix') format('embedded-opentype'),
+       local('Droid Serif Italic'),
+       local('Droid-Serif-italic'),
+       url('http://fonts.gstatic.com/s/droidserif/v6/cj2hUnSRBhwmSPr9kS589weOulFbQKHxPa89BaxZzA0.woff2') format('woff2'),
+       url('http://fonts.gstatic.com/s/droidserif/v6/cj2hUnSRBhwmSPr9kS5894o3ZslTYfJv0R05CazkwN8.woff') format('woff'),
+       url('http://fonts.gstatic.com/s/droidserif/v6/cj2hUnSRBhwmSPr9kS589-LrC4Du4e_yfTJ8Ol60xk0.ttf') format('truetype'),
+       url('http://fonts.gstatic.com/l/font?kit=cj2hUnSRBhwmSPr9kS589zGefNBPGWcFPRAoUX_lgLU&skey=5baf0548233ba076&v=v6#DroidSerif') format('svg');
+}
+
+@font-face {
+  font-family: 'Roboto Slab';
+  font-weight: 100;
+  font-style: normal;
+  src: url('/fonts/Roboto-Slab-100/Roboto-Slab-100.eot');
+  src: url('/fonts/Roboto-Slab-100/Roboto-Slab-100.eot?#iefix') format('embedded-opentype'),
+       local('Roboto Slab Thin'),
+       local('Roboto-Slab-100'),
+       url('/fonts/Roboto-Slab-100/Roboto-Slab-100.woff2') format('woff2'),
+       url('/fonts/Roboto-Slab-100/Roboto-Slab-100.woff') format('woff'),
+       url('/fonts/Roboto-Slab-100/Roboto-Slab-100.ttf') format('truetype'),
+       url('/fonts/Roboto-Slab-100/Roboto-Slab-100.svg#RobotoSlab') format('svg');
+}
+
+@font-face {
+  font-family: 'Roboto Slab';
+  font-weight: 300;
+  font-style: normal;
+  src: url('/fonts/Roboto-Slab-300/Roboto-Slab-300.eot');
+  src: url('/fonts/Roboto-Slab-300/Roboto-Slab-300.eot?#iefix') format('embedded-opentype'),
+       local('Roboto Slab Light'),
+       local('Roboto-Slab-300'),
+       url('/fonts/Roboto-Slab-300/Roboto-Slab-300.woff2') format('woff2'),
+       url('/fonts/Roboto-Slab-300/Roboto-Slab-300.woff') format('woff'),
+       url('/fonts/Roboto-Slab-300/Roboto-Slab-300.ttf') format('truetype'),
+       url('/fonts/Roboto-Slab-300/Roboto-Slab-300.svg#RobotoSlab') format('svg');
+}
+
+@font-face {
+  font-family: 'Roboto Slab';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/Roboto-Slab-regular/Roboto-Slab-regular.eot');
+  src: url('/fonts/Roboto-Slab-regular/Roboto-Slab-regular.eot?#iefix') format('embedded-opentype'),
+       local('Roboto Slab Regular'),
+       local('Roboto-Slab-regular'),
+       url('/fonts/Roboto-Slab-regular/Roboto-Slab-regular.woff2') format('woff2'),
+       url('/fonts/Roboto-Slab-regular/Roboto-Slab-regular.woff') format('woff'),
+       url('/fonts/Roboto-Slab-regular/Roboto-Slab-regular.ttf') format('truetype'),
+       url('/fonts/Roboto-Slab-regular/Roboto-Slab-regular.svg#RobotoSlab') format('svg');
+}
+
+@font-face {
+  font-family: 'Roboto Slab';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/Roboto-Slab-700/Roboto-Slab-700.eot');
+  src: url('/fonts/Roboto-Slab-700/Roboto-Slab-700.eot?#iefix') format('embedded-opentype'),
+       local('Roboto Slab Bold'),
+       local('Roboto-Slab-700'),
+       url('/fonts/Roboto-Slab-700/Roboto-Slab-700.woff2') format('woff2'),
+       url('/fonts/Roboto-Slab-700/Roboto-Slab-700.woff') format('woff'),
+       url('/fonts/Roboto-Slab-700/Roboto-Slab-700.ttf') format('truetype'),
+       url('/fonts/Roboto-Slab-700/Roboto-Slab-700.svg#RobotoSlab') format('svg');
+}
+
